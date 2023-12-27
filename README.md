@@ -11,8 +11,8 @@ To run this code, the following libraries need to be imported:
 - plotly.graph_objs
 - ipywidgets
 
-## Code Explanation
-Please refer to the [github repository](https://github.com/kamalakarpeta/data_visualization_with_plotly) here.
+## GitHub Repository
+The code for this analysis can be found in the following GitHub repository: [Link to GitHub Repository](https://github.com/kamalakarpeta/data_visualization_with_plotly).
 
 ## Conclusion
 This Jupyter Notebook code provides a comprehensive demonstration of how to use seaborn and plotly libraries to visualize the iris dataset. It includes examples of creating scatter plots, parallel coordinates plots, and an interactive dashboard. These visualizations help to understand the relationships and distributions of the iris dataset, making it easier to analyze and interpret the data. By running this code, users can explore the iris dataset and gain insights into the patterns and characteristics of the different iris species.
